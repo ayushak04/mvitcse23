@@ -1,2 +1,3 @@
 This is the Git workshop for computer science students
 MVIT gitlab
+This is something useful
